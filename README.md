@@ -1,7 +1,7 @@
 📒 Contact Book – Python Project
 🔹 Project Overview
 
-This is a Python-based Contact Book application that allows users to manage their contacts using basic CRUD operations (Create, Read, Update, Delete). The project uses functions, file handling, and JSON data storage to store contact information persistently.
+This project is a Python-based Contact Book application that performs basic CRUD operations (Create, Read, Update, Delete) using functions and JSON file handling. Users can add, view, update, and delete contacts, with all data stored persistently in a JSON file. The project demonstrates Python fundamentals such as modular programming, file handling, conditional logic, and user input handling, making it ideal for beginners and academic mini-projects.
 
 The application is designed for beginners to understand Python fundamentals such as functions, loops, conditionals, and file operations.
 
