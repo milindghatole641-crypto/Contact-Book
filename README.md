@@ -5,6 +5,7 @@ This project is a Python-based Contact Book application that performs basic CRUD
 
 The application is designed for beginners to understand Python fundamentals such as functions, loops, conditionals, and file operations.
 
+
 🔹 Features
 
   * Create Contact – Add a new contact with name, phone number, and email
@@ -17,6 +18,7 @@ The application is designed for beginners to understand Python fundamentals such
 
   * Persistent Storage – Contacts are stored in a JSON file
 
+
 🔹 Technologies Used
 
 * Python
@@ -26,6 +28,7 @@ The application is designed for beginners to understand Python fundamentals such
 * File Handling
 
 * Jupyter Notebook
+
 
 🔹 Functions Used
 
